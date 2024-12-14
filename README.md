@@ -27,7 +27,7 @@ I am an experienced Java Full-stack Developer with expertise in building end-to-
   <img src="https://img.shields.io/badge/Servlets-%23FFA726.svg?&style=for-the-badge&logo=servlet&logoColor=white" alt="Servlets" />
 </p>
                     
-                 ## Socials
+     ## Socials
 
 <p align="left">
   <a href="https://www.github.com/Aquamankar" target="_blank" rel="noreferrer">
