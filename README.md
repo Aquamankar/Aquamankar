@@ -8,7 +8,8 @@ I am an experienced Java Full-stack Developer with expertise in building end-to-
 
 *   🌍  I'm based in Bhopal India
 *   ✉️  You can contact me at [imakankshamnkr@gmail.com](mailto:imakankshamnkr@gmail.com)
-*   🧠  I'm learning Kafka and microservices### Skills 
+*   🧠  I'm learning Kafka and microservices
+*   ### Skills 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23FF9800.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
