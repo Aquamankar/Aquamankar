@@ -48,7 +48,7 @@ Here are a few things I’ve been working on:
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🔗 [Hotel Booking System](https://github.com/Aquamankar/hotel-booking) | A full-stack hotel booking app with room and user management | Java, Spring Boot, Hibernate, MySQL, Angular |
-| 🔗 [DevOps Practice Lab](https://github.com/Aquamankar/devops-lab) | Practice repo for Docker, Kubernetes & Terraform configurations | Docker, K8s, Terraform |
+| 🔗 [DevOps Practice Lab](https://github.com/Aquamankar/DockerLectures) | Practice repo for Docker, Kubernetes & Terraform configurations | Docker, K8s, Terraform |
 | 🔗 [Microservices Architecture](https://github.com/Aquamankar/microservices-sample) | A demo project for microservices using Spring Cloud, Eureka, and API Gateway | Spring Boot, Spring Cloud, Feign, Gateway |
 
 ---
