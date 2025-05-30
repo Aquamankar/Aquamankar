@@ -4,7 +4,7 @@
 
 ## 💻 Java Backend Developer | Full-stack Enthusiast | DevOps Explorer
 
-I'm a passionate and dedicated Java Full-stack Developer with experience in building robust, scalable web applications using **Spring Boot**, **JPA**, **Hibernate**, and **Angular**. I love working on backend logic, exploring DevOps tools, and collaborating in Agile teams to deliver high-quality software.
+I'm a passionate and dedicated Java Full-stack / Backend Developer with experience in building robust, scalable web applications using **Spring Boot**, **JPA**, **Hibernate**, and **Angular**. I love working on backend logic, exploring DevOps tools, and collaborating in Agile teams to deliver high-quality software.
 
 ---
 
