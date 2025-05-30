@@ -56,7 +56,7 @@ Here are a few things I’ve been working on:
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:imakankshamnkr@gmail.com">
+  <a href="mailto:akankshamankar99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Aquamankar" target="_blank">
