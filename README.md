@@ -2,6 +2,13 @@
 
 ![Header GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  # 👋  Hi there, I'm Akanksha Mankar!
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="100"/>
+</p>
+
+<h1 align="center">👋 Hi there, I'm Akanksha Mankar!</h1>
+
+
 ## 💻 Java Backend Developer | Full-stack Enthusiast | DevOps Explorer
 
 I'm a passionate and dedicated Java Full-stack / Backend Developer with experience in building robust, scalable web applications using **Spring Boot**, **JPA**, **Hibernate**, and **Angular**. I love working on backend logic, exploring DevOps tools, and collaborating in Agile teams to deliver high-quality software.
