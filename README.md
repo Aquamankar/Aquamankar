@@ -1,24 +1,25 @@
-
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="100"/>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="150"/>
 </p>
 
 <h1 align="center">👋 Hi there, I'm Akanksha Mankar!</h1>
 
-
-## 💻 Java Backend Developer | Full-stack Enthusiast | DevOps Explorer
-
-I'm a passionate and dedicated Java Full-stack / Backend Developer with experience in building robust, scalable web applications using **Spring Boot**, **JPA**, **Hibernate**, and **Angular**. I love working on backend logic, exploring DevOps tools, and collaborating in Agile teams to deliver high-quality software.
+<p align="center">
+💻 Java Backend Developer | Full-stack Enthusiast | DevOps Explorer  
+🎯 Passionate about building scalable applications & cloud-native solutions  
+🌱 Constant learner and open-source contributor
+</p>
 
 ---
 
-### 🔍 Currently Learning
+### 🔍 Currently Exploring
 
 - 🐳 Docker & Kubernetes
 - ⚙️ Terraform (IaC)
-- 📦 Kafka & Microservices Architecture
-- ☁️ DevOps practices & CI/CD pipelines
+- ☁️ CI/CD with GitHub Actions
+- 📦 Kafka, RabbitMQ
+- 🔐 Spring Security & OAuth2
+- 🧪 Unit & Integration Testing with JUnit & Mockito
 
 ---
 
@@ -46,15 +47,16 @@ I'm a passionate and dedicated Java Full-stack / Backend Developer with experien
 
 ---
 
-### 🧪 Projects
-
-Here are a few things I’ve been working on:
+<details>
+  <summary>📁 <strong>Highlighted Projects</strong></summary>
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🔗 [Hotel Booking System](https://github.com/Aquamankar/hotel-booking) | A full-stack hotel booking app with room and user management | Java, Spring Boot, Hibernate, MySQL, Angular |
 | 🔗 [DevOps Practice Lab](https://github.com/Aquamankar/DockerLectures) | Practice repo for Docker, Kubernetes & Terraform configurations | Docker, K8s, Terraform |
 | 🔗 [Microservices Architecture](https://github.com/Aquamankar/microservices-sample) | A demo project for microservices using Spring Cloud, Eureka, and API Gateway | Spring Boot, Spring Cloud, Feign, Gateway |
+
+</details>
 
 ---
 
@@ -80,3 +82,9 @@ Here are a few things I’ve been working on:
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aquamankar&show_icons=true&theme=radical" alt="Akanksha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquamankar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
